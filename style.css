@@ -57,6 +57,10 @@ input::placeholder {
     margin-top: 0;
 }
 
+.user-info p {
+    padding: 0 1rem 0 0;
+}
+
 .user-info ul {
     display: flex;
     justify-content: space-between;
